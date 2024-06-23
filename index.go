@@ -11,6 +11,7 @@ var kalimat = []string{
     "Teruslah berjuang dan jangan menyerah.",
     "Kebaikan sekecil apapun akan dihargai.",
     "Hari ini adalah kesempatan baru.",
+    "Hidup sesuka hati",
     "Bersyukur atas apa yang kita miliki.",
 }
 
